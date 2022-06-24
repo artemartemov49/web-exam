@@ -60,6 +60,14 @@
 
 }
 
+.name {
+  font-family: Montserrat, serif;
+  font-weight: Bold;
+  font-size: 25px;
+  text-align: center;
+  margin-top: 20px;
+}
+
 .img-right {
   position: absolute;
   right: 5%;
